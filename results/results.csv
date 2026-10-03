@@ -1,0 +1,13 @@
+algorithm,phase,total_references,hits,page_faults,hit_ratio,page_fault_ratio
+FIFO,Before Shift,1000,463,537,0.463,0.537
+FIFO,After Shift,1000,500,500,0.5,0.5
+FIFO,Overall,2000,963,1037,0.4815,0.5185
+LRU,Before Shift,1000,488,512,0.488,0.512
+LRU,After Shift,1000,501,499,0.501,0.499
+LRU,Overall,2000,989,1011,0.4945,0.5055
+Optimal,Before Shift,1000,682,318,0.682,0.318
+Optimal,After Shift,1000,640,360,0.64,0.36
+Optimal,Overall,2000,1322,678,0.661,0.339
+Learned Adaptive,Before Shift,1000,464,536,0.464,0.536
+Learned Adaptive,After Shift,1000,461,539,0.461,0.539
+Learned Adaptive,Overall,2000,925,1075,0.4625,0.5375

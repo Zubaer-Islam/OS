@@ -1,0 +1,5 @@
+algorithm,before_faults,before_hits,before_hit_ratio,before_page_fault_ratio,after_faults,after_hits,after_hit_ratio,after_page_fault_ratio,overall_faults,overall_hits,overall_hit_ratio,overall_page_fault_ratio
+FIFO,537,463,0.463,0.537,500,500,0.5,0.5,1037,963,0.4815,0.5185
+LRU,512,488,0.488,0.512,499,501,0.501,0.499,1011,989,0.4945,0.5055
+Optimal,318,682,0.682,0.318,360,640,0.64,0.36,678,1322,0.661,0.339
+Learned Adaptive,536,464,0.464,0.536,539,461,0.461,0.539,1075,925,0.4625,0.5375

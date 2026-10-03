@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+*.aux
+*.log
+*.out
+tmp/
+build_pdf.py
+build_paper.py
